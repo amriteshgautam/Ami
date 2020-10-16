@@ -1,0 +1,16 @@
+body{
+  padding-top: 100px;
+  background-image: url('Jaguar.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ 
+}
+.btn{
+  border-radius: 50px;
+}
+.btn:hover{
+  border: solid black;
+  background-color: red;
+  transform: scale(1.5);
+}
